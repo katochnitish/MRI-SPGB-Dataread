@@ -1,4 +1,4 @@
-## MRI- Siemens Philips Generalelectric Bruker (MRI-SPGB) data read
+## MRI- Siemens Philips General electric Bruker (MRI-SPGB) data read
 ***
 <li>Siemens raw data reconstruction</li>
 <li>Philips raw data reconstruction [.data/.list] [PAR-REC]</li> 
